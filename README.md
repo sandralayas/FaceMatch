@@ -85,18 +85,6 @@ Usage
 To run the application, simply execute the main Python script from the command line:
 python main.py
 
-Press q to quit the video stream.
-File Structure
-your-project-name/
-├── main.py                     # Main script to run the application
-├── models/                     # Directory for pre-trained model files
-│   ├── deploy.prototxt
-│   ├── res10_300x300_ssd...caffemodel
-│   ├── age_net.caffemodel
-│   └── gender_net.caffemodel
-├── requirements.txt            # List of Python dependencies
-├── README.md                   # This file
-└── .gitignore                  # Git ignore file
 
 Technologies Used
  * Python
