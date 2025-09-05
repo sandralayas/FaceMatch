@@ -4,8 +4,8 @@ Face-Match Model selection &amp; Basic Comparison Pipeline
 **on going**
 
 
- * Project Title: A clear and concise title.
- * Introduction: A brief overview of the project's purpose and functionalities.
+ * Project Title: FACE MATCH
+ * Introduction: A Face Recognition Service
  * Features: A bulleted list of the main features, including:
    * Real-time face detection.
    * Age estimation.
